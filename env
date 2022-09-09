@@ -1,0 +1,4 @@
+DB_NAME=yudb
+DB_USER=test
+DB_PASS=pass
+TZ=Asia/Tokyo
